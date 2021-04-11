@@ -5,6 +5,8 @@ This is a repository of my Bachelor's thesis project Reinforcement Learning vs. 
 **Based on price data and features constructed wherewith, do model-free RL algorithms outperform the Occam's Razor 1/n portfolio and the different linear specifications optimized using a convex objective over a convex set of constraints?**
 
 ## Sample tests:
+
+This is an evolution of the weights suggested by the algorithms in the S&P 500 Momentum portfolio:
 <p float="left">
 <img src="https://user-images.githubusercontent.com/69042407/114295827-f248b800-9aa7-11eb-9f4a-8c0d16633688.gif" width="300" height="270">
 <img src="https://user-images.githubusercontent.com/69042407/114295923-aea27e00-9aa8-11eb-9f90-c406f7169d34.gif" width="300" height="270">
