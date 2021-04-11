@@ -4,5 +4,4 @@ This is a repository of my Bachelor's thesis project Reinforcement Learning vs. 
 
 **Based on price data and features constructed wherewith, do model-free RL algorithms outperform the Occam's Razor 1/n portfolio and the different linear specifications optimized using a convex objective?**
 
-
-![A2C_weights-min](https://user-images.githubusercontent.com/69042407/114295827-f248b800-9aa7-11eb-9f4a-8c0d16633688.gif)
+<img src="https://user-images.githubusercontent.com/69042407/114295827-f248b800-9aa7-11eb-9f4a-8c0d16633688.gif" width="100" height="100">
